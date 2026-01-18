@@ -1,6 +1,5 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-import App from "./OtherPages/App.jsx";
 
 import NotfindPage from "./StaticCompent/NotfindPage.jsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
